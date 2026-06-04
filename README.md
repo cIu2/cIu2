@@ -6,9 +6,9 @@
 
 <br><img src="hi clu..omg.gif" width="480px">
 <h5>
-ask name⠀⠀program terms only
-<br>male⠀ 18⠀⠀british⠀⠀npd sys⠀⠀(^q^)
+ask name⠀⠀nhuman terms only
+<br>male⠀ 18⠀⠀british⠀⠀npd sys
 
-<br><a href="https://lynchmob.straw.page" target="_blank">straw​</a>⠀⠀<a href="https://thesatiristsluvsong.straw.page" target="_blank">gimmck wall​</a>⠀⠀<a href="https://ponyexpress.atabook.org/" target="_blank">新book​</a>
+<br><a href="https://ponyexpress.atabook.org/" target="_blank">新book​</a>
 </h5>
 <img src="https://64.media.tumblr.com/fba61dbb0614468641f6d54d9c16e7fd/e58b2eb754741b01-05/s2048x3072/145f1d6019daf97c6c2f762acdaef41b322196db.gifv" width="480px">

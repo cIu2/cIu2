@@ -5,7 +5,7 @@
 <img src="hi clu..omg.gif" width="480px">
 <br>
 <h5>
-ask name　　　　nhuman terms only　　　　tron c.link
+ask name　　　nhuman terms only　　　tron c.link
   
 <br>male　　18yrs　 　british　　npd sys
 

@@ -11,5 +11,5 @@ ${\text{\color{#7A7838}𑇣  ‿ troη⠀⠀\color{#4C4C4D}ou⠀\color{#A6A6A8}t
 ${\text{\color{#A6A6A8} ꪱt⠀\color{#4C4C4D}⠀hᧉ clu \color{#4C4C4D}⠀⠀⠀︵no \color{#4C4C4D} they⠀\color{#414349} ✚ 𓈒⠀ᴗ)}}$
 
 <a href="https://clu.atabook.org/">
-  <img src="https://img.shields.io/badge/atabook-4A2B31?style=for-the-badge&logoColor=ffffff&labelColor=4C4C4D">
+  <img src="https://img.shields.io/badge/atabook-4C4C4D?style=for-the-badge&logoColor=ffffff&labelColor=4C4C4D">
 </a>

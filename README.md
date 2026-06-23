@@ -12,4 +12,4 @@ ${\text{\color{#D7C362} ꪱt⠀\color{#AC9132}⠀hᧉ \color{#7B6B38} hꪱm \col
 
 <a href="https://tron.atabook.org/"> <img src="https://img.shields.io/badge/新book-281F1A?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E"></a>
 <a href="https://pronouns.cc/@clu2"> <img src="https://img.shields.io/badge/prns.cc-413427?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E"></a>
-<a href="https://rentry.co/clugate"> <img src="https://img.shields.io/badge/rentry-494A23?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E"></a>
+<a href="https://rentry.co/clus"> <img src="https://img.shields.io/badge/rentry-494A23?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E"></a>

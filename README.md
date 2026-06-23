@@ -1,15 +1,15 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=gentlehandsplease&style=for-the-badge&label=_+++Σヽ(ﾟДﾟ;_)ﾉ_ｱｯ+++_&color=222020)
+![](https://komarev.com/ghpvc/?username=gentlehandsplease&style=for-the-badge&label=_+++Σヽ(ﾟДﾟ;_)ﾉ_ｱｯ+++_&color=2A180E)
 
-${\text{\color{#4C4C4D} ꒰  '' ᴗ ᴗ  ꒱ᩙ⠀⠀⠀⠀\color{#4C4C4D} clu ꪱs my \color{#7A7838} s⍶vꪱour}}$ <br>
+${\text{\color{#6B5430} ꒰  '' ᴗ ᴗ  ꒱ᩙ⠀⠀⠀⠀\color{#3F2E12} clu ꪱs my \color{#AE9742} savꪱour}}$ <br>
 
 <img src="https://files.catbox.moe/dhgx3w.png" width="480px"> <br>
 
 
-${\text{\color{#7A7838}  ‿ CLU2⠀⠀\color{#4C4C4D} ou\color{#A6A6A8}⠀⠀froηt \color{#4C4C4D}⠀⠀⠀⠀ ©⠀clu2 }}$ <br>
-${\text{\color{#A6A6A8} ꪱt⠀\color{#4C4C4D}⠀hᧉ program \color{#4C4C4D}⠀⠀⠀︵no \color{#4C4C4D} they⠀\color{#414349} ✚ 𓈒⠀ᴗ)}}$
+${\text{\color{#AE9742}  ‿ CLU2⠀⠀\color{#6B5430} ou\color{#523D1C}⠀⠀froηt \color{#3F2E12}⠀⠀⠀⠀ ©⠀clu2 }}$ <br>
+${\text{\color{#523D1C} ꪱt⠀\color{#6B5430}⠀hᧉ hꪱm \color{#6B5430}⠀⠀⠀︵no \color{#3F2E12} they⠀\color{#3F2E12} ✚ 𓈒⠀ᴗ)}}$
 
 <a href="https://tron.atabook.org/">
-  <img src="https://img.shields.io/badge/atabook-4C4C4D?style=for-the-badge&logoColor=ffffff&labelColor=4C4C4D">
+  <img src="https://img.shields.io/badge/atabook-2A180E?style=for-the-badge&logoColor=#2A180E&labelColor=2A180E">
 </a>
